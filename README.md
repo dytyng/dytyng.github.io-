@@ -1,2 +1,2 @@
-# dytyng.github.io-
+# dytyng.github.io
 my blog
